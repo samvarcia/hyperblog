@@ -13,3 +13,4 @@ Un repositorio de ejemplo para el curso de git y github
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
+- Creado por el Platzi team
