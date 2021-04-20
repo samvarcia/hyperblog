@@ -15,3 +15,4 @@ Un repositorio de ejemplo para el curso de git y github
 - Las personalidades múltiples de Freddy
 - Creado por el Platzi team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
